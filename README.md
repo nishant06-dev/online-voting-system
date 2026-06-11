@@ -35,7 +35,18 @@ The system ensures that each user can vote only once and displays real-time voti
 5. Open http://localhost/online-voting-system
 
 ## 📸 Screenshots
-(Add your project screenshots here)
+## 📸 Screenshots
+### Register Page
+![Register](register.png)
+
+### Login Page
+![Login](login.png)
+
+### Voting Page
+![Voting](vote.png)
+
+### Result Page
+![Result](result.png)
 
 ## 👨‍💻 Author
 Nishant Kumar
