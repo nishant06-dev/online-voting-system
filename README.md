@@ -37,7 +37,7 @@ The system ensures that each user can vote only once and displays real-time voti
 ## 📸 Screenshots
 ## 📸 Screenshots
 ### Register Page
-![Register]("C:\Users\hp\Pictures\Screenshots\register.png.png")
+![Register](register.png)
 
 ### Login Page
 ![Login]("C:\Users\hp\Pictures\Screenshots\login.png.png")
