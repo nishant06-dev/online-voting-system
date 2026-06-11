@@ -37,16 +37,16 @@ The system ensures that each user can vote only once and displays real-time voti
 ## 📸 Screenshots
 ## 📸 Screenshots
 ### Register Page
-![Register](register.png)
+![Register]("C:\Users\hp\Pictures\Screenshots\register.png.png")
 
 ### Login Page
-![Login](login.png)
+![Login]("C:\Users\hp\Pictures\Screenshots\login.png.png")
 
 ### Voting Page
-![Voting](vote.png)
+![Voting]("C:\Users\hp\Pictures\Screenshots\vote.png.png")
 
 ### Result Page
-![Result](result.png)
+![Result]("C:\Users\hp\Pictures\Screenshots\result.png.png")
 
 ## 👨‍💻 Author
 Nishant Kumar
